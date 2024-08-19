@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnderatedClock
-- 👀 I’m interested in robots
-- 🌱 I’m currently learning robots
-- 💞️ I’m looking to collaborate on robots
+- 👀 I’m interested in racing
+- 🌱 I’m currently learning how to race
+- 💞️ I’m looking to collaborate on racing :>
 - 📫 How to reach me: Discord: underatedclock
 
 <!---
